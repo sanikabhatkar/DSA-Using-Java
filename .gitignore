@@ -1,0 +1,13 @@
+# IntelliJ and build files
+.idea/
+*.iml
+out/
+target/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
